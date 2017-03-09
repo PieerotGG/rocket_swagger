@@ -1,0 +1,8 @@
+[package]
+name = "rocket_swagger"
+version = "0.1.0"
+authors = ["pierre <pierreguthauser@gmail.com>"]
+description = "Generate doc swagger from rocket rs routes"
+keywords = ["rocket", "swagger.io", "generation", "json"]
+
+[dependencies]
