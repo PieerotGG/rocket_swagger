@@ -5,4 +5,5 @@ authors = ["pierre <pierreguthauser@gmail.com>"]
 description = "Generate doc swagger from rocket rs routes"
 keywords = ["rocket", "swagger.io", "generation", "json"]
 
-[dependencies]
+[lib]
+plugin = true
